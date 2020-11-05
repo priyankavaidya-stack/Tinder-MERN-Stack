@@ -9,6 +9,7 @@
 firebase.json
 # testing
 /coverage
+url.js
 
 # production
 /build
